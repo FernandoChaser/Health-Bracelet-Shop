@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "D:/pastas de programação/js codes/Java projetos de teste"
+		},
+		{
+			"path": "HTML Projects"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "HTML Projects"
+	}
+}
